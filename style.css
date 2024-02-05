@@ -95,6 +95,8 @@ img {
     max-width: 500px;
     min-width: 270px;
 
+    width: 100%;
+
     border-radius: 7px;
 }
 
